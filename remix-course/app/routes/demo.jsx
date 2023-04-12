@@ -1,9 +1,9 @@
 import React from 'react'
 
-const demo = () => {
+const Demo = () => {
   return (
-    <div>demo</div>
+    <div>dDmo</div>
   )
 }
 
-export default demo
+export default Demo

@@ -4,6 +4,9 @@ export const meta = () => {
 
 export default function Index() {
   return (
-    <h1>hello world</h1>
+    <>
+      <h1>hello world</h1>
+      <h2>Test</h2>
+    </>
   );
 }
